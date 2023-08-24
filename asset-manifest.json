@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/House/static/css/main.9ed5cba3.css",
+    "main.js": "/House/static/js/main.ebb9956d.js",
+    "static/media/house-3.jpg": "/House/static/media/house-3.574136ec505c39bbfcb1.jpg",
+    "static/media/blog-2.jpg": "/House/static/media/blog-2.1f632c2a79acbdde6d28.jpg",
+    "static/media/house-4.jpg": "/House/static/media/house-4.1f632c2a79acbdde6d28.jpg",
+    "static/media/blog-3.jpg": "/House/static/media/blog-3.2fd73b009b529b970a91.jpg",
+    "static/media/slider-3.jpg": "/House/static/media/slider-3.2fd73b009b529b970a91.jpg",
+    "static/media/house-2.jpg": "/House/static/media/house-2.896856b9b9aaabcc9ac1.jpg",
+    "static/media/house-1.jpg": "/House/static/media/house-1.bd55bba6ae132f909052.jpg",
+    "static/media/house-6.jpg": "/House/static/media/house-6.a9ad8d47e0c71b237364.jpg",
+    "static/media/house-5.jpg": "/House/static/media/house-5.bb39c8cfa6596fc66a95.jpg",
+    "static/media/slider-2.jpg": "/House/static/media/slider-2.601e1a20f8b87c7127a1.jpg",
+    "static/media/blog-1.jpg": "/House/static/media/blog-1.2e6c249d0d909affd8b4.jpg",
+    "static/media/slider-1.jpg": "/House/static/media/slider-1.2e6c249d0d909affd8b4.jpg",
+    "static/media/remixicon.svg?t=1690730386070": "/House/static/media/remixicon.db77551b8efc76571c4f.svg",
+    "static/media/remixicon.eot?t=1690730386070": "/House/static/media/remixicon.53ec05edb4b6864b45b1.eot",
+    "static/media/remixicon.ttf?t=1690730386070": "/House/static/media/remixicon.4aa0fd158658e2a40e79.ttf",
+    "static/media/ava-1.jpg": "/House/static/media/ava-1.c185d7723fe40ec46830.jpg",
+    "static/media/ava-3.jpg": "/House/static/media/ava-3.1442075049ece43143f2.jpg",
+    "static/media/ava-2.jpg": "/House/static/media/ava-2.11e918c656d0c7851624.jpg",
+    "static/media/ava-4.jpg": "/House/static/media/ava-4.5f15524f7b3f80a834df.jpg",
+    "static/media/remixicon.woff?t=1690730386070": "/House/static/media/remixicon.affd60ca37df38cfee4f.woff",
+    "static/media/remixicon.woff2?t=1690730386070": "/House/static/media/remixicon.821a773710130bcf4674.woff2",
+    "static/media/toyota-offer-2.png": "/House/static/media/toyota-offer-2.861de085d1c782df9e9d.png",
+    "static/media/mercedes-offer.png": "/House/static/media/mercedes-offer.d177a4fe9e2002ddb24d.png",
+    "static/media/slick.svg": "/House/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/House/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/House/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/House/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/House/index.html",
+    "main.9ed5cba3.css.map": "/House/static/css/main.9ed5cba3.css.map",
+    "main.ebb9956d.js.map": "/House/static/js/main.ebb9956d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ed5cba3.css",
+    "static/js/main.ebb9956d.js"
+  ]
+}
